@@ -1,4 +1,4 @@
-// CONFIGURAÇÃO: Cole aqui o link que você copiou do Google Sheets (Publicar na Web > CSV)
+// CONFIGURAÇÃO: Link da planilha Google
 const SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQnChDi2Pt55dGhlVZA1HLh1eXsfmDRE2J5un5Z9E9_yMV_q95dQqeV1HMFaQ0AwzYksHYwi5RsJLLF/pub?gid=0&single=true&output=csv';
 
 // Elementos do DOM
@@ -59,7 +59,7 @@ function renderCatalog(products) {
                     </div>
                 </div>
 
-                <a href="https://wa.me/SEUNUMERO?text=Olá! Tenho interesse no item: ${item.Nome}" 
+                <a href="https://wa.me/+5541991540433?text=Olá! Tenho interesse no item: ${item.Nome}" 
                    target="_blank"
                    class="m-4 mt-0 bg-blue-900 hover:bg-blue-800 text-white text-center py-3 rounded-xl font-bold transition-colors shadow-lg shadow-blue-100">
                    Encomendar no Whats
