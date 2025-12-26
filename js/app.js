@@ -1,5 +1,5 @@
 // CONFIGURAÇÃO: Cole aqui o link que você copiou do Google Sheets (Publicar na Web > CSV)
-const SHEET_URL = 'https://docs.google.com/spreadsheets/d/1OlouxMXbItOEezNLPmxI6UOJaSfyXVo_b6kt0Ib8mBg/pub?output=csv';
+const SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQnChDi2Pt55dGhlVZA1HLh1eXsfmDRE2J5un5Z9E9_yMV_q95dQqeV1HMFaQ0AwzYksHYwi5RsJLLF/pub?gid=0&single=true&output=csv';
 
 // Elementos do DOM
 const catalogGrid = document.getElementById('catalogGrid');
