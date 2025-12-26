@@ -59,7 +59,7 @@ function renderCatalog(products) {
                     </div>
                 </div>
 
-                <a href="https://wa.me/+5541991540433?text=Olá! Tenho interesse no item: ${item.Nome}" 
+                <a href="https://wa.me/+5543991540433?text=Olá! Tenho interesse no item: ${item.Nome}" 
                    target="_blank"
                    class="m-4 mt-0 bg-blue-900 hover:bg-blue-800 text-white text-center py-3 rounded-xl font-bold transition-colors shadow-lg shadow-blue-100">
                    Encomendar no Whats
